@@ -1,0 +1,5 @@
+warehouses are seperate
+warehouses does not have stock inventory lists
+system does not account for if are items not delivered to send , may only send confirmation
+multiple dispatches + confirmation from
+warehouses only have their type 
